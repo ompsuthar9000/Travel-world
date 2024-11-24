@@ -18,13 +18,13 @@ Embark on a global odyssey with our immersive **World Travel Exploration Hub**, 
 ## Screenshots 🌟
 
 ### Homepage
-![Homepage Screenshot](./assets/Screenshot%20(42).png)
+![Homepage Screenshot](./screenshots/Screenshot%20(42).png)
 
 ### Destinations Overview
-![Destinations Screenshot](./assets/Screenshot%20(43).png)
+![Destinations Screenshot](./screenshots/Screenshot%20(43).png)
 
 ### Travel Gallery
-![Travel Gallery Screenshot](./assets/Screenshot%20(44).png)
+![Travel Gallery Screenshot](./screenshots/Screenshot%20(44).png)
 
 ---
 
