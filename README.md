@@ -26,6 +26,9 @@ Embark on a global odyssey with our immersive **World Travel Exploration Hub**, 
 ### Travel Gallery
 ![Travel Gallery Screenshot](./screenshots/Screenshot%20(44).png)
 
+### Tour Detail Page
+![Travel Gallery Screenshot](./screenshots/Screenshot%20(44).png)
+
 ---
 
 ## Notes
